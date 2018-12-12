@@ -1,6 +1,6 @@
 # Further Reading
 
-This section contains a selection of books on various topics which you may find interesting, or if you would like to dig deeper into a particular topic covered in this book.  This was, after all, only an introduction to the world of software quality; it was meant to have very broad coverage of a variety of fields.  If you're interested in a specific one, I highly recommend you dig deeper.
+This section contains a selection of books on various topics which you may find interesting, or if you would like to dig deeper into a particular topic covered in this book. This was, after all, only an introduction to the world of software quality; it was meant to have very broad coverage of a variety of fields. If you're interested in a specific one, I highly recommend you dig deeper.
 
 _Exploratory Testing_
 
@@ -10,7 +10,7 @@ _General Testing_
 
 Crispin, Lisa and Janet Gregory. _Agile Testing: A Practical Guide for Testers and Agile Teams_. Boston: Addison-Wesley, 2009.
 
-Jorgensen, Paul C. _Software Testing: A Craftsman's Approach_. Boca Raton: CRC Press, 2014. 
+Jorgensen, Paul C. _Software Testing: A Craftsman's Approach_. Boca Raton: CRC Press, 2014.
 
 McCaffrey, James. _Software Testing: Fundamental Principles and Essential Knowledge_. 2009.
 
@@ -58,7 +58,7 @@ Feathers, Michael C. _Working Effectively with Legacy Code_. Upper Saddle River,
 
 Fowler, Martin. _Refactoring: Improving the Design of Existing Code_. Addison-Wesley, 1999.
 
-Hunt, Andrew, and David Thomas. _The Pragmatic Programmer: From Journeyman to Master_.  Boston: Addison-Wesley, 1999.
+Hunt, Andrew, and David Thomas. _The Pragmatic Programmer: From Journeyman to Master_. Boston: Addison-Wesley, 1999.
 
 Martin, Robert C. _Clean Code: A Handbook of Agile Software Craftsmanship_. Upper Saddle River, NJ: Prentice Hall, 2008.
 
@@ -83,3 +83,4 @@ Krug, Steve. _Don't Make Me Think: A Common Sense Approach to Web Usability_. Be
 _Web Testing_
 
 Rappin, Noel. _Rails 4 Test Prescriptions: Build a Healthy Codebase_. Dallas, TX: The Pragmatic Bookshelf, 2014.
+
