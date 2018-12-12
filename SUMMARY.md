@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Introduction to Software Testing](README.md)
 * [Introduction](05_intro/README.md)
   * [What is Software Testing?](05_intro/10_what_is_software_testing.md)
 * [Why Test Software?](13_why_test_software.md)
